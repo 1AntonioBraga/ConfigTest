@@ -11,3 +11,8 @@ for letra in texto: #Letra é definida no próprio laço
 print() #Quebra de linha
 
 print(letra[0]) #Teste do vetor letra.
+
+
+
+for numero in range(0,11):  #range(início, final, "de quantos em quantos ?")
+    print(numero, end= " ")
