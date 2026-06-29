@@ -14,7 +14,7 @@ print (".".join(curso)) #Coloca o caractere especificado entre cada caractere da
 
 print (".".join(curso.upper())) #Coloca o caractere especificado entre cada caractere da string, mas em maiúsculo
 
-
+print(curso[::-1])
 
 print("""
 
